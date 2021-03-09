@@ -1,21 +1,21 @@
 ,0
-B_min,1797.71
-C_entropia,1789.59
-R_quantil 075,1793.17
-R_bucket 4,1792.67
-R/G,1788.2
-G_bucket 8,1796.15
-R_quantil 005,1796.1
-G/C,1802.42
-C_ptp,1836.36
-B_quantil 099,1832.44
-G_quantil 001,1834.67
-TGI,1830.78
-B_quantil 010,1833.73
-C_bucket 1,1836.63
-C_quantil 095,1840.8
-B_mediana,1833.4
-R/B,1837.93
-R_variancia,1837.75
-C_quantil 099,1842.29
-C_desvio padrao,1845.02
+C_ptp,1797.58
+C_quantil 090,1796.88
+GLI,1796.24
+B_quantil 099,1796.14
+R_quantil 095,1795.14
+C_entropia,1794.69
+C_quantil 095,1789.96
+B_quantil 010,1798.79
+R_quantil 005,1830.61
+B_min,1823.23
+TGI,1834.16
+R/G,1831.6
+G_quantil 001,1827.37
+R_variancia,1827.76
+G/C,1830.03
+R/B,1834.28
+C_desvio padrao,1833.68
+C_bucket 1,1836.35
+B_mediana,1839.58
+C_quantil 099,1838.42
