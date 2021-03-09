@@ -1,21 +1,21 @@
 ,0
-R_quantil 090,30.93
-C_quantil 090,30.77
-R_quantil 005,30.37
-R/G,30.71
-G_quantil 001,31.03
-B_min,31.24
-R_bucket 4,30.6
-B_mediana,31.04
-C_ptp,31.28
-B_quantil 075,30.37
-C_entropia,31.07
-G_variancia,30.65
-TGI,30.89
-B_quantil 010,31.18
-G/C,30.59
-C_quantil 099,31.0
-C_quantil 095,31.11
-R/B,30.51
-R_variancia,31.38
-C_desvio padrao,30.39
+B_min,30.76
+C_entropia,30.89
+R_quantil 075,30.61
+R_bucket 4,30.88
+R/G,30.5
+G_bucket 8,30.56
+R_quantil 005,30.69
+G/C,30.4
+C_ptp,31.22
+B_quantil 099,30.5
+G_quantil 001,30.93
+TGI,30.84
+B_quantil 010,31.12
+C_bucket 1,30.54
+C_quantil 095,30.64
+B_mediana,30.86
+R/B,30.66
+R_variancia,31.36
+C_quantil 099,30.47
+C_desvio padrao,31.51
