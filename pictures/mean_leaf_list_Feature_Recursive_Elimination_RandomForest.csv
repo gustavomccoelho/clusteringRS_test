@@ -1,0 +1,21 @@
+,0
+R_quantil 090,1789.86
+C_quantil 090,1791.59
+R_quantil 005,1792.72
+R/G,1789.82
+G_quantil 001,1791.08
+B_min,1795.17
+R_bucket 4,1789.98
+B_mediana,1797.75
+C_ptp,1827.94
+B_quantil 075,1829.0
+C_entropia,1827.7
+G_variancia,1826.87
+TGI,1825.47
+B_quantil 010,1833.29
+G/C,1823.66
+C_quantil 099,1827.15
+C_quantil 095,1825.33
+R/B,1830.78
+R_variancia,1827.35
+C_desvio padrao,1832.89
