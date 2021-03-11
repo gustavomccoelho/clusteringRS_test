@@ -1,21 +1,21 @@
 ,0
-B_quantil 090,61.25
-B_mediana,60.47
-G_bucket 8,61.94
-R_quantil 090,61.06
-G_quantil 090,60.8
-B_bucket 1,60.15
-G_bucket 1,59.86
-C_bucket 8,60.26
-WVII,60.91
-G/B,60.17
-R_bucket 1,59.65
-C_ptp,59.58
-R_bucket 7,58.96
-R_cv,59.48
-G_entropia,59.52
-R_quantil 005,59.36
-C_bucket 7,59.67
-C_bucket 1,58.04
-B_bucket 7,57.65
-G_bucket 7,53.59
+B_mediana,59.67
+B_quantil 001,60.76
+G_bucket 8,60.09
+R_quantil 090,60.26
+G_quantil 090,60.46
+B_bucket 1,59.02
+G_bucket 1,59.77
+C_bucket 8,58.52
+WVII,58.63
+R_bucket 1,57.84
+C_ptp,59.67
+G/B,61.62
+R_cv,62.99
+R_bucket 7,63.38
+G_entropia,64.36
+C_bucket 7,69.91
+R_quantil 005,74.42
+C_bucket 1,81.54
+B_bucket 7,107.09
+G_bucket 7,159.93

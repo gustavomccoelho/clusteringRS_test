@@ -1,21 +1,21 @@
 ,0
-B_quantil 090,159565.38
-B_mediana,159666.44
-G_bucket 8,159774.48
-R_quantil 090,159818.77
-G_quantil 090,159730.67
-B_bucket 1,160099.56
-G_bucket 1,160500.64
-C_bucket 8,160953.06
-WVII,164219.71
-G/B,163888.51
-R_bucket 1,164999.07
-C_ptp,164833.5
-R_bucket 7,165569.73
-R_cv,165942.1
-G_entropia,166519.42
-R_quantil 005,167338.45
-C_bucket 7,168426.52
-C_bucket 1,170159.81
-B_bucket 7,172378.74
-G_bucket 7,176127.56
+B_mediana,185224.16
+B_quantil 001,191372.46
+G_bucket 8,190752.87
+R_quantil 090,190862.26
+G_quantil 090,189827.82
+B_bucket 1,201429.81
+G_bucket 1,201227.56
+C_bucket 8,200637.16
+WVII,200244.41
+R_bucket 1,200400.62
+C_ptp,206042.58
+G/B,204502.04
+R_cv,226595.3
+R_bucket 7,226667.1
+G_entropia,228491.32
+C_bucket 7,247393.37
+R_quantil 005,257874.69
+C_bucket 1,317332.95
+B_bucket 7,365714.68
+G_bucket 7,174873.64
